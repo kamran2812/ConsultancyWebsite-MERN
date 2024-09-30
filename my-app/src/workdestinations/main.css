@@ -1,0 +1,55 @@
+.why-choose-this{
+    color: #002958;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-family: Poppins;
+}
+.country{
+    color: #febf00;
+}
+.countryy{
+    color: #002958;
+    /* color: #febf00; */
+    /* font-size: large; */
+    text-transform: capitalize;
+}
+.why-des{
+    font-family: Poppins;
+    color: #000;
+  }
+  .des-cards{
+
+      background-color: #014293;
+    }
+    .tit-desti{
+    font-family: Poppins;
+    font-weight: 600;
+  }
+  .line{
+    color: #fff;
+    height: 4px;
+}
+.text-des{
+      color: #fff;
+      font-family: Poppins;
+  }
+  .destination-container{
+      
+      /* background-color: #01367c; */
+    }
+    .des-titlee{
+     color: #01367c;
+     font-family: Poppins;
+     font-weight: 600;
+  }
+  .des-dess{
+    color: black;
+    font-family: Poppins;
+      }
+      @media only screen and (min-width: 767px) {
+        .bot-btnn{
+          position: absolute;
+          bottom: -10px;
+        }
+      }

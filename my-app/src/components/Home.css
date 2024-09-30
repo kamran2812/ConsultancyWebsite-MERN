@@ -1,0 +1,177 @@
+/* section{
+    position: relative;
+    height: calc(100vh - 3rem);
+    width: 100%;
+    background: url('https://wallpapercave.com/wp/wp9455792.jpg') no-repeat top center / cover;
+    overflow: hidden;
+}
+
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 69, 154, 0.2);
+} 
+input {
+    background: rgba(255,255,255,0.4);
+    border: none;
+    position: relative;
+    display: block;
+    outline: none;
+    width: 400px;
+    height: 30p;
+    top: 250px;
+    margin: 0 auto;
+    padding: 10px;
+    color: #333;
+    -webkit-box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+    box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+  }
+  ::-webkit-input-placeholder { color: #666;} 
+  :-moz-placeholder { color: #666; }
+  ::-moz-placeholder { color: #666; }
+  :-ms-input-placeholder { color: #666; }
+  #carouselExampleCaptions{
+    height: 60vh;
+  } */
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+  .card-one{
+    background-color: #00459a;
+  }
+  .card-two{
+    background-color: #127ccd;
+  }
+  .card-three{
+    background-color: #febf00;
+  }
+  .cardi{
+    border-radius: 0px;
+    position: relative; 
+    top: -80px;
+    /* height: 160px; */
+  }
+
+  @media only screen and (max-width: 767px) {
+    .card{
+      border-radius: 0px;
+      position: relative; 
+      top: 0px;
+      /* height: 160px; */
+    }
+  }
+  .fade-up {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  
+  .fade-up.animate__animated.animate__fadeInUp {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .fade-up.animate__animated.animate__fadeOutDown {
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  @media only screen and (min-width: 767px) {
+    .bot-btn{
+      position: absolute;
+      bottom: 10px;
+    }
+  }
+  .study-destination{
+    color: #febf00;
+    font-family: Poppins;
+    font-weight: 700;
+  }
+  .study-text{
+    font-family: Poppins;
+    /* font-weight: 500; */
+    color: #fff;
+    
+  }
+  .png{
+    height: 200px; 
+  }
+  .back{
+
+    background-color:#002958 ;
+  }
+  .study-container{
+    background-color:#002958 ;
+  }
+  .cardii {
+    border: 0;
+    background-color: transparent;
+  }
+  .cardiii {
+    border: 0;
+    background-color: transparent;
+  }
+  .des-title{
+    color: #febf00;
+  }
+  .des-des{
+color: white;
+font-family: Poppins;
+  }
+
+  .services-container{
+    /* background-color: #127ccd; */
+    width: 100%;
+    overflow: hidden;
+  }
+  .ser-title{
+    color: #002958;
+    font-family: Poppins;
+    font-weight: 600;
+  }
+  .ser-des{
+    font-family: Poppins;
+    /* font-weight: 600; */
+    color: #000;
+  }
+  .main-containerr{
+    /* background-color: #127ccd; */
+
+  }
+  .service{
+    color: #002958;
+    font-family: Poppins;
+    font-weight: 700;
+  }
+  .ser-text{
+    font-family: Poppins;
+    color: #000;
+  }
+  .sample{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .ico{
+    font-size: 65px;
+    /* color: #febf00; */
+    color: #01367c;
+  }
+  .why-head{
+    color: #002958;
+    font-family: Poppins;
+    font-weight: 700;
+  }
+  .why-des{
+    font-family: Poppins;
+    color: #000;
+  }
+ /* .partner-image{
+  height: 50px;
+  width: 90px;
+ } */
+ 
+
+
+
+
