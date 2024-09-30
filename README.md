@@ -3,6 +3,8 @@
 ## Description
 ConsultancyWebsite-MERN is a beautiful and interactive MERN stack consultancy website featuring over 15 pages. This web application provides a user-friendly interface, allowing users to navigate easily through various sections. The project utilizes Mail.js to implement a newsletter subscription feature, enabling users to subscribe and receive updates directly to their email. Additionally, the application allows users to contact the consultancy team, making it easy for potential clients to get in touch.
 
+Note: The master branch is the main branch of this repository, containing the project structure, including the client and server folders.
+
 ## Features
 - **User Contact:** Users can get in touch with the consultancy team.
 - **Newsletter Subscription:** Subscribe to receive updates via email.
